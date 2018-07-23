@@ -2,7 +2,7 @@
 === Hikashop to OpenCart Migration Tool ===
 Version: 2.4.1
 Developed by: LitExtension
-Download: https://litextension.com/opencart-migration/3dcart-to-opencart-migration.html 
+Download: https://litextension.com/opencart-migration/hikashop-to-opencart-migration.html
 
 
 == Description ==
